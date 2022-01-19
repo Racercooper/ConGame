@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4KKflmn1MA/7hz7eabgP1huCFR3TRg/6zvrKH1TY6pDhKV/rrxCWQN25NZ57m1W4T7aBsZ8eQYNcEl94IacSNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mindi\\source\\repos\\test area\\test area.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mindi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mindi\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\mindi\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
